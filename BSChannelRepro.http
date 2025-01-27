@@ -1,0 +1,6 @@
+@BSChannelRepro_HostAddress = http://localhost:5260
+
+GET {{BSChannelRepro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
